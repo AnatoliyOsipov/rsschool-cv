@@ -2,11 +2,11 @@
 
 ### 2. Contacts:
 
-- **_Location:_** _Tambov, Russia_
-- **_Phone:_** _89027300965_
-- **_E-mail:_** _oaa777tambov@gmail.com_
-- **_Telegram:_** _AnatoliyOsipov_
-- **_Discord:_** _AnatoliyOsipov#3269_
+- ___Location:___ _Tambov, Russia_
+- ___Phone:___ _89027300965_
+- ___E-mail:___ _oaa777tambov@gmail.com_
+- ___Telegram:___ _AnatoliyOsipov_
+- ___Discord:___ _AnatoliyOsipov#3269_
 
 ---
 
