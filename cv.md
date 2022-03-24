@@ -29,9 +29,9 @@ I work as a traffic manager. But I want to be a frontend developer. So far I'm o
 ```
 let iceCream = 'chocolate';
 if (iceCream === 'chocolate') {
-alert('Yay, I love chocolate ice cream!');
+  alert('Yay, I love chocolate ice cream!');
 } else {
-alert('Awwww, but chocolate is my favorite...');
+  alert('Awwww, but chocolate is my favorite...');
 }
 ```
 
