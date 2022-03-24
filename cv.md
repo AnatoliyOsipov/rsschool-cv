@@ -1,6 +1,6 @@
-#1. Anatoliy Osipov
+# 1. Anatoliy Osipov
 
-###2. Contacts:
+### 2. Contacts:
 
 - **_Location:_** _Tambov, Russia_
 - **_Phone:_** _89027300965_
@@ -10,12 +10,12 @@
 
 ---
 
-###3. About me:
+### 3. About me:
 I work as a traffic manager. But I want to be a frontend developer. So far I'm only at the beginning of my studies. I hope, I can do it!
 
 ---
 
-###4. Skills:
+### 4. Skills:
 
 - _HTML_
 - _CSS_
@@ -24,7 +24,7 @@ I work as a traffic manager. But I want to be a frontend developer. So far I'm o
 
 ---
 
-###5. Code Example:
+### 5. Code Example:
 
 ```
 let iceCream = 'chocolate';
@@ -37,15 +37,15 @@ alert('Awwww, but chocolate is my favorite...');
 
 ---
 
-###6. Experience:
+### 6. Experience:
 I haven't programming experience.
 
 ---
 
-###7. Education:
+### 7. Education:
 Tambov State Technical University. Master in Electricity and Electrical Engineering.
 
 ---
 
-###8. English:
+### 8. English:
 A2 (I have some speaking and reading practice).
